@@ -1,0 +1,3 @@
+site_name: My Dummy Site
+nav:
+  - Home: index.md
